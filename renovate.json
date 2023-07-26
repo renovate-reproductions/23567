@@ -1,0 +1,11 @@
+{
+  "extends": ["config:base"],
+  "branchConcurrentLimit": 5,
+  "commitBodyTable": true,
+  "internalChecksFilter": "strict",
+  "labels": ["dependencies"],
+  "npmrc": "@wyardley:registry=https://npm.pkg.github.com/",
+  "npmrcMerge": true,
+  "prConcurrentLimit": 5,
+  "semanticCommits": "enabled"
+}
