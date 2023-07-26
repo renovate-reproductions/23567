@@ -1,0 +1,13 @@
+{
+  "command": {
+    "run": {
+      "loadEnvFiles": false
+    }
+  },
+  "packages": [
+    "jobs/*",
+    "libs/",
+    "services/*"
+  ],
+  "version": "0.0.0"
+}
