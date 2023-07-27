@@ -12,6 +12,6 @@
     "eslint": "8.43.0"
   },
   "dependencies": {
-    "firebase-functions": "3.24.1"
+    "firebase-functions": "4.4.1"
   }
 }
