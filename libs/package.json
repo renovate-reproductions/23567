@@ -12,6 +12,6 @@
     "eslint": "8.43.0"
   },
   "dependencies": {
-    "@workos-inc/node": "2.18.0"
+    "@workos-inc/node": "2.20.0"
   }
 }
